@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\bin\Debug\PoultryFarmManagementSystem.exe.config
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\bin\Debug\PoultryFarmManagementSystem.exe
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\bin\Debug\PoultryFarmManagementSystem.pdb
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.Properties.Resources.resources
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.exe
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.pdb
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.FormLogin.resources
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.Form2.resources
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.Form3.resources
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.FormUpdateProfile.resources
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.FormPriceList.resources
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.UserControlPriceList.resources
+C:\Users\HP\source\repos\PoultryFarmManagementSystem\PoultryFarmManagementSystem\obj\Debug\PoultryFarmManagementSystem.UserControlNewAccount.resources
